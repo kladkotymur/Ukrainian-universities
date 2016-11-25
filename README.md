@@ -1,4 +1,3 @@
-libwww-mechanize-perl
 #Get all Ukranian Univercities
 Required packages: libhtml-parser-perl,libwww-mechanize-perl, libjson-perl
 
